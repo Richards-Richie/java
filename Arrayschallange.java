@@ -13,7 +13,7 @@ class Arrayschallange {
             System.out.println("inserting "+n+"elements into the array is not possible");
             System.out.println("change the n value to size");
             n=size;
-        }
+        } 
         System.out.println("enter "+n+"elements into the array");
         for(int i=0; i<a.length;i++){
             a[i]=s.nextInt();

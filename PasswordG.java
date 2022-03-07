@@ -63,6 +63,6 @@ public class PasswordG {
             }
             
         }
-        System.out.print(password);
+        System.out.print("password: "+password);
     }   
 }
